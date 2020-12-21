@@ -5,4 +5,4 @@ This is a machine learning in-class project that applies GANs on the task of ima
 - cnn.ipynb is the conventional convolutional neural network that uses tensorflow and keras to train and test on MNIST dataset
 - gan.ipynb is the generative adversarial network adapted from the DCGAN on tensorflow website
 - report gan assignment.pdf is the report file that describes the project details
-- trial_1.ipynb, trial_2.ipynb, trial_3.ipynb are three different trials that use different transfer learning and fine-tuning on the discriminator from the trained GANs; their descriptions are specified in the report
+- trial_1.ipynb, trial_2.ipynb, trial_3.ipynb are three different trials that use different transfer learning and fine-tuning techniques on the discriminator from the trained GANs; their descriptions are specified in the report
